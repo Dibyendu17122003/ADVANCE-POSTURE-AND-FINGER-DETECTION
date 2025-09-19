@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+mediapipe
+numpy
+streamlit-webrtc
+av
+Pillow
+protobuf
