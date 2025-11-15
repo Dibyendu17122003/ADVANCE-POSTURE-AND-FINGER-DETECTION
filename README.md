@@ -17,15 +17,6 @@
 
 </div>
 
-📊 Core Framework Technologies
-<div align="center">
-Python 3.11	OpenCV 4.8	MediaPipe AI	NumPy	TensorFlow	PyTorch	FastAPI	Docker
-Technology	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" />	<img src="https://styles.redditmedia.com/t5_2ymzr/styles/communityIcon_b37n2z8c861.png" width="40" height="40" />	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" />	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" />	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" />	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" />	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
-Version	3.11+	4.8+	0.8.10+	1.24+	2.15+	2.1+	0.104+	24.0+
-Purpose	Core Language	Computer Vision	AI Pipeline	Math Operations	ML Framework	Deep Learning	Web API	Containerization
-Importance	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐	⭐⭐⭐⭐	⭐⭐⭐	⭐⭐⭐
-</div>
-
 ## 🎯 Technology Stack Overview
 
 ```mermaid
